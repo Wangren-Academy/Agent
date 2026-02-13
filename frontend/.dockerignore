@@ -1,0 +1,14 @@
+# Ignore local dependencies and build artifacts for frontend build context
+node_modules
+.next
+.output
+.env
+.env.local
+.DS_Store
+.git
+.gitignore
+.vscode
+.idea
+npm-debug.log
+pnpm-debug.log
+yarn-debug.log
